@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "you hate caffeine",
+  "base_artist": "SATOH",
+  "createdAt": "2026-03-10T15:41:17.979060Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Why You Hate the Game",
+      "artist": "The Game feat. Nas",
+      "has_synced": false,
+      "path": "select/01_Why_You_Hate_the_Game_The_Game_feat._Nas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Before You Hate It",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/02_Before_You_Hate_It_Gary_Numan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love It When You Hate Me (feat. blackbear)",
+      "artist": "Avril Lavigne feat. blackbear",
+      "has_synced": true,
+      "path": "select/03_Love_It_When_You_Hate_Me_(feat._blackbear)_Avril_Lavigne_feat._blackbear.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love It When You Hate Me",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/04_Love_It_When_You_Hate_Me_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Loves the Jobs You Hate",
+      "artist": "HONNE",
+      "has_synced": true,
+      "path": "select/05_Loves_the_Jobs_You_Hate_HONNE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Someone You Hate",
+      "artist": "Sasha Alex Sloan",
+      "has_synced": true,
+      "path": "select/06_Someone_You_Hate_Sasha_Alex_Sloan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loving What You Hate",
+      "artist": "Joan Armatrading",
+      "has_synced": false,
+      "path": "select/07_Loving_What_You_Hate_Joan_Armatrading.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Miss You, Hate You",
+      "artist": "Joe Bonamassa",
+      "has_synced": false,
+      "path": "select/08_Miss_You,_Hate_You_Joe_Bonamassa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Miss You, Hate You - Original Full Length Version",
+      "artist": "Joe Bonamassa",
+      "has_synced": false,
+      "path": "select/09_Miss_You,_Hate_You_-_Original_Full_Length_Version_Joe_Bonamassa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Miss You, Hate You - (bonus track - original full-length version)",
+      "artist": "Joe Bonamassa",
+      "has_synced": false,
+      "path": "select/10_Miss_You,_Hate_You_-_(bonus_track_-_original_full-length_version)_Joe_Bonamassa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Miss You, Hate You",
+      "artist": "Joe Bonamassa",
+      "has_synced": true,
+      "path": "select/11_Miss_You,_Hate_You_Joe_Bonamassa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "something you hate",
+      "artist": "sadeyes",
+      "has_synced": true,
+      "path": "select/12_something_you_hate_sadeyes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Days You Hate Yourself",
+      "artist": "Propagandhi",
+      "has_synced": true,
+      "path": "select/13_The_Days_You_Hate_Yourself_Propagandhi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Miss You Hate You",
+      "artist": "I M U R",
+      "has_synced": true,
+      "path": "select/14_Miss_You_Hate_You_I_M_U_R.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love It When You Hate Me (feat. blackbear) [Acoustic]",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/15_Love_It_When_You_Hate_Me_(feat._blackbear)_[Acoustic]_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love it When You Hate Me",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/16_Love_it_When_You_Hate_Me_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love the Way You Hate Me",
+      "artist": "Like a Storm",
+      "has_synced": true,
+      "path": "select/17_Love_the_Way_You_Hate_Me_Like_a_Storm.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "you hate caffeine",
+      "artist": "SATOH",
+      "has_synced": false,
+      "path": "select/pl_01_you_hate_caffeine_SATOH.txt"
+    }
+  ]
+}
